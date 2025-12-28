@@ -1,0 +1,8 @@
+{
+  "systems": [
+    {"name": "SUMOSIM", "X": "data/SUMOSIM_qik-sc.npy", "y": "data/SUMOSIM_logpc.npy"},
+    {"name": "SH3PRM", "X": "data/SH3PRM_qik-sc.npy", "y": "data/SH3PRM_logpc.npy"},
+    {"name": "Dhh1", "X": "data/Dhh1_qik-sc.npy", "y": "data/Dhh1_logpc.npy"},
+    {"name": "cGAS_DNA", "X": "data/cGAS_DNA_qik-sc.npy", "y": "data/cGAS_DNA_logpc.npy"}
+  ]
+}
